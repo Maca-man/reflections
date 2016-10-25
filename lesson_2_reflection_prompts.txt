@@ -8,8 +8,12 @@ So the staging area allows you to clearly see what files have been changed befor
 adding to the repository.  it gives you the ability to seperate different files 
 or put together files in logical sequences. 
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area shows which files are up to be commited and you can 
+compare those with the repository to see the differeces between that 
+the most recent commit.  That will show you the actuall difference 
+the 2 commmits insuring that you have one commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
