@@ -18,6 +18,11 @@ the 2 commmits insuring that you have one commit per logical change.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Situations in which you may want to modify the code experimentally
+but keep a working version without any of those changes
+then a branch can give you different directions to work on your project
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
